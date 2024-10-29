@@ -1,8 +1,8 @@
 # dht22-data-logger
 Arduino Nano + DHT22 Data Logger
 
-Logs temperature to Arduino Nano EEPROM every minute
-Data retrieved via USB Serial port
+Logs temperature to Arduino Nano EEPROM every minute  
+Data is retrieved via USB Serial port
 
 Instructions:  
   Hardware
